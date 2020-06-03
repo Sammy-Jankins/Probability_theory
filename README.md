@@ -8,4 +8,4 @@
 
 - Sample_paths.ipynb: Simulation of sample paths of a Brownian motion and Poisson processes.
 
- <img src = "./Pictures/brownian_paths.png" width=400>  &nbsp;  &nbsp;   &nbsp;<img src = "./Pictures/poisson_paths.png" width=400> &nbsp;  &nbsp;   &nbsp;
+  &nbsp;   &nbsp;  &nbsp;<img src = "./Pictures/brownian_paths.png" width=400>  &nbsp;  &nbsp;   &nbsp;<img src = "./Pictures/poisson_paths.png" width=400> &nbsp;  &nbsp;   &nbsp;
